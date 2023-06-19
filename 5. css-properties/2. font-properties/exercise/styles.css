@@ -1,0 +1,38 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+}
+
+#color {
+    color: coral;
+}
+
+#font-size {
+    font-size: 2rem;
+}
+
+#font-weight {
+    font-weight: 900;
+}
+
+#font-family {
+    font-family: 'Caveat', cursive;
+}
+
+#text-align {
+    text-align: right;
+}
+
+html {
+    font-size: 30px;
+}
+
+/*
+1. Change the color of <p>Color</p> to "coral" color.
+2. Change the font size of <p>Font Size</p> to 2X the size of the root font size.
+3. Change the font weight of <p>Font Weight</p> to 900.
+4. Change the font family of <p>Font Family</p> to the Google font Caveat with regular (400) font weight.
+5. Change the <p>Text Align</p> to right align.
+6. Change the the root (html element) font size to 30px.
+*/

@@ -1,0 +1,28 @@
+div {
+    height: 200px;
+    width: 200px;
+}
+
+#box1 {
+    background-color: cadetblue;
+    padding: 20px;
+    border: 10px solid black;
+}
+
+p {
+    margin: 0;
+}
+
+#box2 {
+    background-color: gold;
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+}
+
+#box3 {
+    background-color: indianred;
+    border: 10px solid black;
+    align-items: end;
+    margin-left: 40px;
+}
