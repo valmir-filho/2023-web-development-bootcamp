@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: #F7FFE5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #C4D7B2;
+}
+
+a {
+    position: relative;
+    top: 350px;
+}
+
+footer {
+    background-color: #C4D7B2;
+    position: relative;
+    top: 680px;
+}
+
+.france-rectangle1 {
+    height: 750px;
+    width: 460px;
+    background-color: #002654;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.france-rectangle2 {
+    height: 750px;
+    width: 470px;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 460px;
+}
+
+.france-rectangle3 {
+    height: 750px;
+    width: 470px;
+    background-color: #ED2939;
+    position: relative;
+    left: 470px;
+}
+
+.germany-rectangle1 {
+    height: 250px;
+    width: 1400px;
+    background-color: black;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.germany-rectangle2 {
+    height: 250px;
+    width: 1400px;
+    background-color: red;
+    position: relative;
+    top: 250px;
+}
+
+.germany-rectangle3 {
+    height: 250px;
+    width: 1400px;
+    background-color: yellow;
+    position: relative;
+    top: 250px;
+}
+
+.italy-rectangle1 {
+    height: 750px;
+    width: 460px;
+    background-color: #008C45;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.italy-rectangle2 {
+    height: 750px;
+    width: 470px;
+    background-color: #F4F9FF;
+    position: relative;
+    left: 460px;
+}
+
+.italy-rectangle3 {
+    height: 750px;
+    width: 470px;
+    background-color: #CD212A;
+    position: relative;
+    left: 470px;
+}
+
+.japan-rectangle {
+    height: 750px;
+    width: 1400px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.japan-circle {
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    background-color: red;
+    position: relative;
+    top: 175px;
+    left: 500px;
+}
+
+.laos-bigger-rectangle {
+    height: 750px;
+    width: 1400px;
+    background-color: #CE1126;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.laos-smaller-rectangle {
+    height: 300px;
+    width: 1400px;
+    background-color: #002868;
+    position: relative;
+    top: 225px;
+}
+
+.laos-circle {
+    height: 280px;
+    width: 280px;
+    border-radius: 100%;
+    background-color: white;
+    position: relative;
+    top: 10px;
+    left: 560px;
+}
+
+.nigeria-rectangle1 {
+    height: 750px;
+    width: 460px;
+    background-color: #1B7339;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.nigeria-rectangle2 {
+    height: 750px;
+    width: 470px;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 460px;
+}
+
+.nigeria-rectangle3 {
+    height: 750px;
+    width: 470px;
+    background-color: #1B7339;
+    position: relative;
+    left: 470px;
+}
