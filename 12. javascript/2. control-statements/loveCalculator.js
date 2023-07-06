@@ -11,3 +11,12 @@ function loveCalculator(name1, name2) {
 }
 
 loveCalculator(prompt("Input the name 1: "), prompt("Input the name 2: "));
+
+/* Observations!
+=== equal to
+!== not equal to
+> greater than
+< lesser than
+>= greater or equal to
+<= lesser or equal to
+*/
