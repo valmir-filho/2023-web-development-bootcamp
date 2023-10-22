@@ -1,7 +1,7 @@
-2023 Web Development Bootcamp Repository from Udemy.
+# 2023 Web Development Bootcamp Repository from Udemy.
 
-Content:
+## Content:
 
-Exercises and projects developed by Dr. Angela Yu from Udemy.
+- Exercises and projects developed by Dr. Angela Yu from Udemy.
 
-Used IDE: Visual Studio Code.
+### Used IDE: Visual Studio Code.
