@@ -1,0 +1,32 @@
+h1 {
+  font-family: 'Tilt Prism', cursive;
+}
+
+#pixel {
+    font-size: 20px;
+  }
+
+#point {
+  font-size: 20pt;
+}
+
+#em {
+  font-size: 1em;
+}
+
+#rem {
+  font-size: 1rem;
+  font-family: 'Great Vibes', cursive;
+}
+
+footer {
+  font-size: 12pt;
+}
+
+html {
+  font-size: xx-large;
+}
+
+/* Sugestion! 
+https://fonts.google.com
+*/
