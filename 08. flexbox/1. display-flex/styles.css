@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+    font-family: 'Gruppo', sans-serif;
+}
+
+.headings, footer {
+    text-align: center;
+}
+
+.anchor-elements {
+    justify-content: center;
+    display: flex;
+    gap: 15px;
+}
+
+footer {
+    margin-top: 620px;
+}

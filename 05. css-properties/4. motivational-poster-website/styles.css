@@ -1,0 +1,23 @@
+body {
+    background-color: #526D82;
+    font-family: 'Itim', cursive;
+    text-align: center;
+}
+
+div {    
+    color: #DDE6ED;
+    font-size: 15pt;
+}
+
+div img {
+    height: 450px;
+    width: 700px;
+    border-radius: 20px;
+    border: 5px solid #DDE6ED;
+}
+
+footer {
+    background-color: #DDE6ED;
+    color: #526D82;
+    font-size: 13pt;
+}

@@ -1,0 +1,40 @@
+.container {
+    color: white;
+    border: 5px solid gold;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+/* Observations!
+1. The flex-basis property is applied only in child itens, not in the parent item. In this case, the ".container" is the parent,
+because he's contain the others itens.
+2. It's possible to apply some property to all children itens, using the "*", and the child combiner (>).
+3. Complete guide from flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+*/
+.container > * {
+    flex-basis: 100px;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.indigo {
+    background-color: indigo;
+}
