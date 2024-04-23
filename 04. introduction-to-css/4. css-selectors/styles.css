@@ -1,0 +1,28 @@
+/* Element selector. */
+h2 {
+    color: chocolate;
+}
+
+/* Class selector. */
+.class-selector {
+    color: hotpink;
+}
+
+/* ID selector. */
+#main {
+    color: cyan;
+}
+
+/* Attribute selector. */
+h5[draggable] {
+    color: cadetblue;
+}
+
+h5[draggable="false"] {
+    color: mediumpurple;
+}
+
+/* Universal selector. */
+/* * {
+    color: fuchsia;
+} */
